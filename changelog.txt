@@ -1,3 +1,8 @@
+V0.39.2 XClient-1.693 Status: Undetected 26.08.26
+-Added infinity granades
+
+
+
 V0.39.2 XClient-1.6925 Status: Undetected 26.08.26
 
 English:
