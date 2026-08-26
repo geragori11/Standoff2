@@ -1,0 +1,16 @@
+V0.39.2 XClient-1.6925 Status: Undetected 26.08.26
+  
+English:
+
+New ESP features added:
+
+-Tracers – bottom, crosshair, top.
+-Wallhack – custom features added.
+
+  Russian:
+
+добавлены новые функции esp:
+ 
+
+-Trasers - низ, прицел, вверх.
+-Wallhack добавлены кастомные функции.
