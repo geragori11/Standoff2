@@ -1,1 +1,1 @@
-0.39.2 XClient-1.699 Undetected
+0.39.2 XClient-1.7 Undetected
