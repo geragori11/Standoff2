@@ -1,3 +1,14 @@
+0.39.2 XClient-1.78.5 Undetected 1.09.26
+English:
+- Added Config system.
+
+
+Russian:
+- Добавлена система конфигов 
+
+
+
+
 V0.39.2 XClient-1.6957 Status: Undetected 30.08.26
 
 English:
